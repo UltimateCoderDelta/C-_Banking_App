@@ -13,8 +13,8 @@ as with the majority of classes developed with OOP, various getters and setters 
 
 The class's implementation, depicted in this file, demonstrates the functionality of the application. The 
 *BankAccount::BankAccount(string accNumber, double bankBalance)* constructor is used to instantiate a new
-account object for each new user added. Furthermore, various getters and setters, such as *BankAccount::getAccountNumber()*, 
-*BankAccount::getBalance()* and *BankAccount::setAccountNumber(string updatedAccountNumber)*, are implemented to
+account object for each new user added. Hereafter, various getters and setters, such as *BankAccount::getAccountNumber()*, 
+*BankAccount::getBalance()* and *BankAccount::setAccountNumber(string updatedAccountNumber)* are implemented to
 retrieve the account's account number, balance and/or set the account number respectively. 
 
 Furthermore, various methods are implemented to simulate real-world bank account actions: tranferring, depositing and
